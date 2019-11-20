@@ -1,5 +1,5 @@
 # test_repo
-Real is great team! 
+Real is a great team! 
 True!
 
 Football player!
